@@ -293,7 +293,7 @@
 <hr>
 <div align="center">
     <a href="https://telegram.me/Astae_bot">
-        <img src="http://up.upinja.com/4l7u2.png" hspace="210" width="210">
+        <img src="http://up.upinja.com/va91k.png" hspace="210" width="210">
     </a> 
 </div>
 <h4 align="center" dir="rtl">در آخر ممنون از شما  به گروه پشتیبانی و چت ما هم سر بزنید با سپاس فراوان.
