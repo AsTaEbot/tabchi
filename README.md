@@ -42,7 +42,7 @@
 <h6 dir="rtl">مثال:</h6>
 <pre>
 <span><strong>screen ./bot 1</strong></span>
-<span>screen ./bot autolsunch</span>
+<span>screen ./bot auto</span>
 </pre>
 <h4 dir="rtl">برای خارج شدن از محیط screen کلید‌های ترکیبی Ctrl+A و سپس کلید D را بفشارید.<br>برای مشاهده فهرست screen های موجود می‌توانید از دستور<strong>  screen -ls  </strong>  استفاده کنید.<br>این دستور فهرست تمامی screen های در حال اجرا را نمایش می‌دهد.<br>برای مشاهده screen اجرا‌شده، کافی است دستور زیر را وارد کنید:</h4>
 <pre>
