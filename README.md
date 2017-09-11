@@ -287,7 +287,7 @@
 <h2 dir="rtl">پشتیبانی
 <hr>
 <div align="center">
-    <a href="https://telegram.me/Astae_bot">
+    <a href="https://t.me/joinchat/FykmzEMUPgy3Alyih_6LKQ">
         <img src="http://up.upinja.com/va91k.png" hspace="210" width="210">
     </a> 
 </div>
@@ -295,4 +295,4 @@
 <br>سازنده | creator : 🎇 AsTaE 🎆<a href="https://telegram.me/AsTaE_bot"> @AsTae_BOT </a><br>راهنمای استفاده از تبچی‌ بسیار ساده و قابل درک است<br>دیدن مطالب کانال ما و درباره ربات ها  
 <a href="https://telegram.me/@SShteam"> @SShteam</a></h4>
 گروه پشتیبانی تبچی حتما جوین شین
-<a href="https://telegram.me/@SShteam"> CreatorBots</a></h4>
+<a href="https://t.me/joinchat/FykmzEMUPgy3Alyih_6LKQ"> supportgap</a></h4>
