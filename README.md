@@ -295,4 +295,4 @@
 <br>سازنده | creator : 🎇 AsTaE 🎆<a href="https://telegram.me/AsTaE_bot"> @AsTae_BOT </a><br>راهنمای استفاده از تبچی‌ بسیار ساده و قابل درک است<br>دیدن مطالب کانال ما و درباره ربات ها  
 <a href="https://telegram.me/@SShteam"> @SShteam</a></h4>
 گروه پشتیبانی ما سر بزنید و انتقادات و پیشنهادات خود را با ما در میان بگزارید با سپاس فراوان
-<a f="https://t.me/joinchat/FykmzEMUPgy3Alyih_6LKQ"> supportgap</a></h4>
+<a href="https://t.me/joinchat/FykmzEMUPgy3Alyih_6LKQ"> supportgap</a></h4>
